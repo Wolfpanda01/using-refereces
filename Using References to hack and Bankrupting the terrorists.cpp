@@ -41,10 +41,7 @@ int main()
     chandedmoney(3);
     chandedmoney(5);
 }
-/*Once the program is working have tested it a few times, create a new repository in your GitHub account for your program.
-Add your solution and files to your new Repository on GitHub.
-Take a screenshot of this project in GitHub.
-Take a screenshot of the program working.*/
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
